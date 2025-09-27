@@ -2,7 +2,7 @@
 
 ---
 
-# Why HTML Was Made
+## Why HTML Was Made
 
 HTML (**HyperText Markup Language**) was created to **share documents over the internet**.
 
@@ -12,7 +12,7 @@ HTML (**HyperText Markup Language**) was created to **share documents over the i
 
 ---
 
-# How HTML Was Made
+## How HTML Was Made
 
 ### Tim Berners-Lee’s Idea
 
@@ -34,7 +34,7 @@ HTML (**HyperText Markup Language**) was created to **share documents over the i
 
 ---
 
-# Political or Other Reasons?
+## Political or Other Reasons?
 
 - No **political agenda** was behind HTML.
 - The main driver was **scientific collaboration** — CERN wanted researchers to **share knowledge freely**.
@@ -101,7 +101,7 @@ Example:
 
 ---
 
-# HTML Tags
+## HTML Tags
 
 ---
 
@@ -157,7 +157,7 @@ The `<title>` tag defines the **title of the webpage**.
 
 ---
 
-# What is the `<body>` Tag?
+## What is the `<body>` Tag?
 
 The `<body>` tag contains all the **visible content** of a webpage.
 
@@ -175,7 +175,7 @@ Everything you see in the browser (**text, images, videos, links**) goes inside 
 
 ---
 
-# HTML Tags Overview
+## HTML Tags Overview
 
 HTML tags are the **building blocks of a web page**. They define **how content is displayed** in the browser.
 
@@ -231,3 +231,26 @@ HTML tags are the **building blocks of a web page**. They define **how content i
 <a href="https://example.com">Visit Example</a>
 <img src="image.jpg" alt="Sample image" />
 ```
+
+---
+
+## HTML Comments
+
+---
+
+## What is an HTML Comment?
+
+- Comments are **notes in the code** that are **not displayed in the browser**.
+- They are used to **explain code**, leave reminders, or temporarily disable parts of HTML.
+
+---
+
+## How to Write a Comment in HTML
+
+- Use the following syntax:
+
+```html
+<!-- This is a comment -->
+```
+
+---
