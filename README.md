@@ -172,3 +172,62 @@ Everything you see in the browser (**text, images, videos, links**) goes inside 
   <img src="image.jpg" alt="Sample image" />
 </body>
 ```
+
+---
+
+# HTML Tags Overview
+
+HTML tags are the **building blocks of a web page**. They define **how content is displayed** in the browser.
+
+---
+
+## How Many Important HTML Tags Exist?
+
+- There are **over 100 HTML tags** in total.
+- For beginners, focus on the **most commonly used tags**, such as:
+  - `<html>` → Root of the page
+  - `<head>` → Metadata
+  - `<title>` → Page title
+  - `<body>` → Visible content
+  - `<h1>`–`<h6>` → Headings (total 6 heading)
+  - `<p>` → Paragraphs
+  - `<a>` → Links
+  - `<img>` → Images
+  - `<ul>` / `<ol>` → Lists
+  - `<li>` → List items
+  - `<div>` / `<span>` → Containers
+  - `<form>` / `<input>` → Forms
+
+---
+
+## Why We Use HTML Tags
+
+- To **structure content** for the browser.
+- To make web pages **readable and accessible**.
+- To **link documents**, add images, create lists, headings, and interactive forms.
+- To separate **metadata** from **visible content**.
+
+---
+
+## When We Use HTML Tags
+
+- Whenever we create a **web page**.
+- For **structuring content** before adding styles (CSS) or interactivity (JavaScript).
+- For **semantics**, accessibility, and search engine optimization.
+
+---
+
+## How We Use HTML Tags
+
+- Tags are written using **angle brackets `< >`**.
+- Most tags have **opening and closing tags**, e.g., `<p>...</p>`.
+- Some tags are **self-closing**, e.g., `<img src="image.jpg" alt="description" />`.
+
+### Example:
+
+```html
+<h1>My First Heading</h1>
+<p>This is a paragraph.</p>
+<a href="https://example.com">Visit Example</a>
+<img src="image.jpg" alt="Sample image" />
+```
